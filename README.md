@@ -1,4 +1,4 @@
-📌 What I Learned Today
+📌 What I Learned Today 
 Today I practiced SQL queries using Employee, Department, and Project tables as part of my SQL learning journey.
 The session focused on:
 Writing SQL queries
@@ -10,6 +10,7 @@ Subqueries
 Correlated queries
 
 📚 Topics Covered
+
 SQL Basics
 SELECT
 WHERE
@@ -38,9 +39,13 @@ Practiced aggregate functions
 Understood GROUP BY and HAVING
 Learned joins between tables
 Improved confidence in writing SQL queries
+
 🔥 Platforms Used
+
 DB Fiddle
 GitHub
 SQL YouTube Playlist
+
 ✅ Status
+
 Completed SQL practice queries and uploaded all files to GitHub.
