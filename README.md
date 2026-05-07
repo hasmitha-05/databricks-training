@@ -8,6 +8,7 @@ GROUP BY & HAVING
 Joins
 Subqueries
 Correlated queries
+
 📚 Topics Covered
 SQL Basics
 SELECT
