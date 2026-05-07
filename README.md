@@ -1,51 +1,27 @@
-📌 What I Learned Today 
-Today I practiced SQL queries using Employee, Department, and Project tables as part of my SQL learning journey.
-The session focused on:
-Writing SQL queries
-Filtering and sorting records
+Databricks SQL Training Repository
+This repository contains my SQL practice work, assignments, and learning progress completed during Databricks training.
+I am learning SQL concepts through hands-on practice using DB Fiddle and GitHub. This repository helps me improve my database management and query writing skills through daily practice.
+The work in this repository includes database creation, table creation, insert statements, filtering, joins, aggregate functions, subqueries, and employee-department based SQL queries.
+Learning Progress
+Practicing SQL queries daily
+Improving query writing skills
+Learning joins and subqueries
+Maintaining daily GitHub updates
+Learning version control using GitHub
+Day 1 Topics
+Database creation
+Table creation
+Insert statements
+SELECT queries
+WHERE clause
+LIKE operator
 Aggregate functions
 GROUP BY & HAVING
-Joins
-Subqueries
-Correlated queries
-
-📚 Topics Covered
-
-SQL Basics
-SELECT
-WHERE
-ORDER BY
-DISTINCT
-LIMIT
-Aggregate Functions
-COUNT()
-AVG()
-MAX()
-MIN()
-SUM()
-Clauses
-GROUP BY
-HAVING
-Joins
-INNER JOIN
-LEFT JOIN
-RIGHT JOIN
-Subqueries
-Nested Queries
-Correlated Queries
-Key Learnings
-Learned SQL query writing
-Practiced aggregate functions
-Understood GROUP BY and HAVING
-Learned joins between tables
-Improved confidence in writing SQL queries
-
-🔥 Platforms Used
-
+JOIN queries
+Tools Used
+SQL
 DB Fiddle
 GitHub
-SQL YouTube Playlist
-
-✅ Status
-
-Completed SQL practice queries and uploaded all files to GitHub.
+Repository Structure
+Week1/day1.sql
+README.md
