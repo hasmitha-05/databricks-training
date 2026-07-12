@@ -8,7 +8,7 @@ sales = spark.read.option("header", "true").csv("/samples/sales.csv")
 sales = sales.withColumn("total_amount", col("total_amount").cast("double"))
 result = customers.join(sales,"customer_id")\
           .groupBy("city")\
-          .agg(sum("total_amount").alias("totalRevenue"))\
+          .agg(sum("total_amount").alias("total_revenue"))\
           .orderBy(col("total_revenue").desc())
 
 result.show()
