@@ -6,6 +6,6 @@ sales = spark.read.option("header", "true").csv("/samples/sales.csv")
 
 sales = sales.withColumn("total_amount", col("total_amount").cast("double"))
 result = sales.groupBy("customer_id") \
-    .agg(avg("total_amount").alias("averageSales")) \
+    .agg(avg("total_amount").alias("average_sales")) \
     .orderBy(col("average_sales").desc())
 result.show()
